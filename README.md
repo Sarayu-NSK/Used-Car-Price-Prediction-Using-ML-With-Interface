@@ -29,20 +29,21 @@ In our day to day lives everyone buys and sells a car every day. Now there are l
 facilities and applications to get an appropriate price for one’s car. Now we use this
 application to get an estimate value of the car.
 
-Proposed System
+Proposed System:-
 
-Null Hypothesis
+Null Hypothesis:
 
 Even though the magnitude of over-fitting has been reduced, Regression trees still suffer
 from overfitting even after Pruning. This leads to our following hypothesis.
 Hypothesis: Multiple and Lasso Regressions are better at predicting price than the
 Regression Tree.
 
-Training and Testing Data
+Training and Testing Data:
 
 The data is split into training (70% - 563 records) and testing (30% - 241 records) data
 sets through random sampling (seed was set to 2786).
-Linear Regression
+
+Linear Regression:
 
 In statistics, linear regression is a linear approach for modelling the relationship between
 a scalar response and one or more explanatory variables (also known as dependent and
